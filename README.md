@@ -61,6 +61,3 @@ Open your browser and navigate to http://localhost:3000.
 UI Layout: Adapted from Hoàng Phúc - FoxN.
 
 Backend API: [kiemtraphatnguoi](https://github.com/henry0hai/kiemtraphatnguoi).
-
-
-2s4BXTuTMMVUgvFSPvnt6Em8Qxz_Uq7YkaadVA6UDC7NF1vt
